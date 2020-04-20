@@ -1,6 +1,6 @@
 {
   "name": "web-cli-dy",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A cli for download github repo",
   "bin": {
     "web-cli": "./bin/web-cli.js"

@@ -4,4 +4,4 @@
  web-cli init [name]
  ```
 
-https://www.npmjs.com/settings/fridaydai/packages
+https://github.com/FridayDai/web-cli
