@@ -19,7 +19,7 @@ render() {
         <div></div>
     );
 }
-    }`,
+}`,
     'hook': `
 import React from 'react';
 
