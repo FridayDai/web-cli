@@ -42,7 +42,7 @@ function go () {
     console.log('start init', projectName);
     console.log(rootName);
 
-    download(rootName)
+    download('https://github.com:FridayDai/react-mobx-scaffold#master', rootName)
         .then(target => console.log('finish init ', target))
         .catch(xhr => console.log(xhr));
 }
